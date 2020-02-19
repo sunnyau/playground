@@ -17,4 +17,19 @@ public class InstanceTest {
         Instance instance = (Instance) c.newInstance();
         assertThat(instance).isNotNull();
     }
+
+    // commit 1
+
+    // commit 2
+
+    // commit 3
+
+    // commit 4
+
+    // commit 5
+
+    // commit 6
+
+    // commit 7
+
 }
